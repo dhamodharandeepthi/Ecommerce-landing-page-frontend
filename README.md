@@ -2,6 +2,14 @@
 
 A simple eCommerce landing page built with the MERN (MongoDB, Express, React, Node.js) stack, featuring product search, category filtering, and product details in a modal.
 
+## App link
+
+https://ecommerce-landing-page-using-mern.netlify.app/
+
+## Demo video
+
+https://github.com/user-attachments/assets/96875d65-4f25-4579-a2bb-030b9dcd28cc
+
 ## Features
 
 - Display a list of products with image, title, and price.
