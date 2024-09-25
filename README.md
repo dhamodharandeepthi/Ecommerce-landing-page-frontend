@@ -6,9 +6,6 @@ A simple eCommerce landing page built with the MERN (MongoDB, Express, React, No
 
 https://ecommerce-landing-page-using-mern.netlify.app/
 
-[Click here to view the image](https://github.com/user-attachments/assets/a3b8fcdc-98f3-4174-a1b2-37c99ab21f0a)
-
-
 https://github.com/user-attachments/assets/a3b8fcdc-98f3-4174-a1b2-37c99ab21f0a
 
 ## Features
