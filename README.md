@@ -8,7 +8,7 @@ https://ecommerce-landing-page-using-mern.netlify.app/
 
 ## Demo video
 
-https://github.com/user-attachments/assets/96875d65-4f25-4579-a2bb-030b9dcd28cc
+https://github.com/user-attachments/assets/1b9c22f0-e701-4911-9b40-03933c4fe447
 
 ## Features
 
